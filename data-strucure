@@ -1,0 +1,36 @@
+Drone_file:
+0.possible drone identifier
+1.currently using by whom(should be operator_object)
+2.determin payloads
+    sensor:
+    0.posssible sensor identifier
+    1.last time since sensor check
+    2.sensor weight
+    battery:
+    0.possible battery identifier
+    1.last time since battery inspection
+    2.battery weight
+    3.battery storage
+3.power(depends on detail of project)
+4.weight(without payloads)
+
+
+operator:
+1.flying history
+2.employee number
+3.name
+4.email
+5.phone
+6.flying time since last take course
+7.physical time since last take course
+8.weather currntly flying
+9.the route this operator allowed to fly
+
+
+flight plan:
+1.time
+2.route,with location
+3.pilot
+
+
+
