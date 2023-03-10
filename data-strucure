@@ -30,7 +30,7 @@ operator:
 flight plan:
 1.time
 2.route,with location
-3.pilot
+3.pilot(or authorise level,like professional/student)
 
 
 
