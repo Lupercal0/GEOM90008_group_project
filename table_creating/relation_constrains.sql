@@ -1,0 +1,62 @@
+ALTER TABLE IF EXISTS group01.battery_history
+    ADD CONSTRAINT battery_id FOREIGN KEY (battery_id)
+    REFERENCES group01.battery (id) MATCH SIMPLE
+    ON UPDATE NO ACTION
+    ON DELETE NO ACTION
+    NOT VALID;
+
+
+ALTER TABLE IF EXISTS group01.sensor_history
+    ADD CONSTRAINT sensor_id FOREIGN KEY (sensor_id)
+    REFERENCES group01.sensor (id) MATCH SIMPLE
+    ON UPDATE NO ACTION
+    ON DELETE NO ACTION
+    NOT VALID;
+
+
+ALTER TABLE IF EXISTS group01.train_history
+    ADD CONSTRAINT operator_id FOREIGN KEY (operator_id)
+    REFERENCES group01.operator (id) MATCH SIMPLE
+    ON UPDATE NO ACTION
+    ON DELETE NO ACTION
+    NOT VALID;
+
+
+ALTER TABLE IF EXISTS group01.flight_history
+    ADD CONSTRAINT "DroneID" FOREIGN KEY (drone_id)
+    REFERENCES group01.drone (id) MATCH SIMPLE
+    ON UPDATE NO ACTION
+    ON DELETE NO ACTION
+    NOT VALID;
+
+
+ALTER TABLE IF EXISTS group01.flight_history
+    ADD CONSTRAINT "SensorID" FOREIGN KEY (sensor_id)
+    REFERENCES group01.sensor (id) MATCH SIMPLE
+    ON UPDATE NO ACTION
+    ON DELETE NO ACTION
+    NOT VALID;
+
+
+ALTER TABLE IF EXISTS group01.flight_history
+    ADD CONSTRAINT "BatteryID" FOREIGN KEY (battery_id)
+    REFERENCES group01.battery (id) MATCH SIMPLE
+    ON UPDATE NO ACTION
+    ON DELETE NO ACTION
+    NOT VALID;
+
+
+ALTER TABLE IF EXISTS group01.flight_history
+    ADD CONSTRAINT "OperatorID" FOREIGN KEY (operator_id)
+    REFERENCES group01.operator (id) MATCH SIMPLE
+    ON UPDATE NO ACTION
+    ON DELETE NO ACTION
+    NOT VALID;
+
+
+ALTER TABLE IF EXISTS group01.flight_history
+    ADD CONSTRAINT "RouteID" FOREIGN KEY (route_id)
+    REFERENCES group01.flight_path (id) MATCH SIMPLE
+    ON UPDATE NO ACTION
+    ON DELETE NO ACTION
+    NOT VALID;
