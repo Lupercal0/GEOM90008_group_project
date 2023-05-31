@@ -1,0 +1,161 @@
+ident,type,name,latitude,longitude
+1,large_airport,Melbourne International Airport,-37.673302,144.843002
+2,medium_airport,Avalon Airport,-38.039398,144.468994
+3,medium_airport,Melbourne Moorabbin Airport,-37.97579956,145.102005
+4,medium_airport,Mildura Airport,-34.22919846,142.0859985
+5,medium_airport,Melbourne Essendon Airport,-37.7281,144.901993
+6,medium_airport,Swan Hill Airport,-35.37580109,143.5330048
+7,small_airport,Bendigo Airport,-36.73939896,144.3300018
+8,medium_airport,Echuca Airport,-36.15719986,144.7619934
+9,medium_airport,Shepparton Airport,-36.42890167,145.3930054
+10,medium_airport,Wangaratta Airport,-36.41579819,146.3070068
+11,medium_airport,Latrobe Valley Airport,-38.207199,146.470001
+12,small_airport,Yarrawonga Airport,-36.02890015,146.029007
+13,small_airport,Bacchus Marsh Airport,-37.73333333,144.4216667
+14,small_airport,Ballarat Airport,-37.51169968,143.7910004
+15,small_airport,Leongatha Airport,-38.49309921,145.8600006
+16,small_airport,Tooradin Airport,-38.21670151,145.427002
+17,small_airport,Kyneton Airport,-37.22626209,144.4472981
+18,medium_airport,Bairnsdale Airport,-37.88750076,147.5679932
+19,small_airport,Mangalore Airport,-36.88830185,145.1840057
+20,small_airport,Colac Airport,-38.2867012,143.6799927
+21,small_airport,Tyabb Airport,-38.26670074,145.1750031
+22,small_airport,"RAAF Williams, Point Cook Base",-37.932201,144.753006
+23,medium_airport,Portland Airport,-38.31809998,141.470993
+24,medium_airport,Benalla Airport,-36.55189896,146.0070038
+25,medium_airport,Hamilton Airport,-37.64889908,142.0650024
+26,medium_airport,West Sale Airport,-38.090827,146.965335
+27,small_airport,Warrnambool Airport,-38.29529953,142.4470062
+28,small_airport,Barwon Heads Airport,-38.258056,144.4275
+29,small_airport,Milawa Vineyard Airport,-36.45619687,146.433063
+30,small_airport,Lethbridge Airpark,-37.921233,144.103058
+31,small_airport,Mallacoota Airport,-37.59830093,149.7200012
+32,small_airport,Coldstream Airport,-37.72766876,145.408371
+33,small_airport,Mount Beauty Airport,-36.73157568,147.1689034
+34,medium_airport,Mount Hotham Airport,-37.04750061,147.3339996
+35,medium_airport,Ararat Airport,-37.30939865,142.9889984
+36,medium_airport,Corryong Airport,-36.18280029,147.8880005
+37,medium_airport,Horsham Airport,-36.66970062,142.1730042
+38,medium_airport,Stawell Airport,-37.07170105,142.7409973
+39,small_airport,Maryborough Airport,-37.03310013,143.7089996
+40,small_airport,Castlemaine Airport,-37.13330078,144.1670074
+41,small_airport,Geelong Airport,-38.22499847,144.3329926
+42,small_airport,Locksley Field,-36.81499863,145.3480072
+43,small_airport,Lilydale Airport,-37.69169998,145.3670044
+44,small_airport,Orbost Airport,-37.79000092,148.6100006
+45,small_airport,Porepunkah Airport,-36.71773071,146.8900394
+46,small_airport,Elmore Airport,-36.49017938,144.6471977
+47,small_airport,Melton Airport,-37.61669922,144.5670013
+48,small_airport,Kyabram Airport,-36.33248237,144.9720669
+49,small_airport,Riddell Airport,-37.48,144.718002
+50,small_airport,Penfield Airfield,-37.51330185,144.697998
+51,small_airport,Torquay Airport,-38.29999924,144.3650055
+52,medium_airport,RAAF Base East Sale,-38.09889984,147.1490021
+53,medium_airport,Hopetoun Airport,-35.71530151,142.3600006
+54,medium_airport,Kerang Airport,-35.75139999,143.9389954
+55,medium_airport,Warracknabeal Airport,-36.32109833,142.4190063
+56,small_airport,Apollo Bay Airport,-38.77493023,143.6611748
+57,small_airport,Bridgewater Airport,-36.61669922,143.9499969
+58,small_airport,Bunyip Airport,-38.01670074,145.75
+59,small_airport,Charlton Airport,-36.25,143.3000031
+60,small_airport,Earlston Airport,-36.59628677,145.7218628
+61,small_airport,Gabo Island Airport,-37.56669998,149.8999939
+62,small_airport,Mitta Mitta Airport,-36.51387874,147.3590183
+63,small_airport,Lake Bolac Airport,-37.68330002,142.8829956
+64,small_airport,Lovely Banks Airport,-38.03329849,144.3329926
+65,small_airport,Mansfield Airport,-37.06669998,146.1170044
+66,small_airport,Phillip Island Airport,-38.52330017,145.3269958
+67,small_airport,Yeaburn Airport,-37.17279816,145.3220062
+68,small_airport,Ceres Airport,-38.14830017,144.2579956
+69,small_airport,Chatsworth Airport,-37.83330154,142.7169952
+70,small_airport,Fish Creek Airport,-38.71500015,146.0529938
+71,small_airport,Lakes Entrance Airport,-37.87919998,147.9869995
+72,small_airport,Longwood Airport,-36.80780029,145.4570007
+73,small_airport,Ouyen Airport,-35.08901243,142.3544884
+74,small_airport,Wilsons Promontory Airport,-39.1310997,146.4250031
+75,small_airport,Moonambel Airfield,-36.97166824,143.2861176
+76,small_airport,St Leonards Airfield,-38.17010117,144.6889954
+77,small_airport,Euroa Aerodrome,-36.74470139,145.5130005
+78,small_airport,Merton Airport,-36.967704,145.707616
+79,small_airport,Romsey Airport,-37.391667,144.738333
+80,small_airport,Drouin Airport,-38.208972,145.831097
+81,small_airport,Welshpool Airport,-38.682382,146.445331
+82,small_airport,Birchip Airport,-35.99969864,142.9170074
+83,small_airport,Donald Airport,-36.36029816,143.0079956
+84,small_airport,Nhill Airport,-36.30970001,141.6410065
+85,small_airport,Saint Arnaud Airport,-36.63669968,143.1860046
+86,small_airport,Amphitheatre Airport,-37.18330002,143.3999939
+87,small_airport,Avonmore Airport,-36.56669998,144.5500031
+88,small_airport,Boort Airport,-36.13669968,143.727005
+89,small_airport,Beechworth Airport,-36.39333333,146.6963889
+90,small_airport,Beulah 1 Airport,-35.95000076,142.4170074
+91,small_airport,Bamawm Airport,-36.25,144.6329956
+92,small_airport,Benambra Airport,-36.96686656,147.6991439
+93,small_airport,Branxholme Airport,-37.86729813,141.7019958
+94,small_airport,Dadswells Bridge Airport,-36.96829987,142.5480042
+95,small_airport,Cann River Airport,-37.51670074,149.1670074
+96,small_airport,Cohuna Airport,-35.81669998,144.1999969
+97,small_airport,Coleraine Airport,-37.59999847,141.6999969
+98,small_airport,Casterton Airport,-37.59999847,141.3999939
+99,small_airport,Cape Otway Airport,-38.86000061,143.5149994
+100,small_airport,Cowes Airport,-38.50830078,145.2129974
+101,small_airport,Dunolly Airport,-36.84999847,143.6999969
+102,small_airport,Edenhope Airport,-37.01670074,141.2669983
+103,small_airport,Eildon Weir Airport,-37.20830154,145.8329926
+104,small_airport,Grampians Airport,-37.04999924,142.2830048
+105,small_airport,Gabo Is aAd sSte Airport,-37.56999969,149.9179993
+106,small_airport,Kaniva Airport,-36.38330078,141.25
+107,small_airport,Kotta Airport,-36.17979813,144.5249939
+108,small_airport,Lakes Entrance Airport,-37.85269928,147.9579926
+109,small_airport,Lake Leagur Airport,-35.98329926,143.8000031
+110,small_airport,Lismore Airport,-37.93330002,143.3500061
+111,small_airport,Mount Elephant Airport,-37.90000153,143.1670074
+112,small_airport,Mount William Airport,-37.29549582,142.6033974
+113,small_airport,Nagambie Airport,-36.73830032,145.125
+114,small_airport,Navarre Airport,-36.91669846,143.1000061
+115,small_airport,Normanville Airport,-35.78329849,143.6999969
+116,small_airport,Patchewollock Airport,-35.36669922,142.1499939
+117,small_airport,Puckapunyal (Military) Airport,-37,145.0630035
+118,small_airport,Pyramid Hill Airport,-36.06669998,144.1329956
+119,small_airport,Quambatook Airport,-35.86220169,143.5099945
+120,small_airport,Raglan Airport,-37.37738734,143.3056641
+121,small_airport,Rainbow Airport,-35.91669846,141.9830017
+122,small_airport,Kuruc-A-Ruc South Airport,-37.90000153,143.7169952
+123,small_airport,Robinvale Airport,-34.65000153,142.7830048
+124,small_airport,Strathbogie Airport,-36.85499954,145.7380066
+125,small_airport,Strathdownie Airport,-37.7317009,141.125
+126,small_airport,Sea Lake Airport,-35.52669907,142.8880005
+127,small_airport,Taggerty Airport,-37.3504982,145.6999969
+128,small_airport,Torrumbarry Airport,-36.06669998,144.5330048
+129,small_airport,Victoria Valley Airport,-37.5,142.2700043
+130,small_airport,Wedderburn Airport,-36.43330002,143.4830017
+131,small_airport,Wonthaggi Airport,-38.47169876,145.6230011
+132,small_airport,Wycheproof Airport,-36.05830002,143.2429962
+133,small_airport,Yarram Airport,-38.56669998,146.7550049
+134,small_airport,Natya Airport,-34.96829987,143.2330017
+135,small_airport,Great Lakes Vi Airport,-37.84220123,148
+136,small_airport,Beaufort Airport,-37.45000076,143.25
+137,small_airport,Derrinallum Airport,-37.93416667,143.2277778
+138,small_airport,Yea Airport,-37.21580124,146.4299927
+139,small_airport,Gunbower Airport,-35.96670151,144.3829956
+140,small_airport,Grovedale Airport,-38.21670151,144.3329926
+141,small_airport,Koongarra Airport,-36,142.2169952
+142,small_airport,Kurweeton Airport,-38.04999924,143.1499939
+143,small_airport,Longwarry Airport,-38.10829926,145.7779999
+144,small_airport,Manangatang Airport,-35.04999924,142.8670044
+145,small_airport,Newhaven Airport,-38.53329849,145.3170013
+146,small_airport,Omeo Airport,-37.09669876,147.5930023
+147,small_airport,Peterborough Airport,-38.59999847,142.9170074
+148,small_airport,Prairie Airport,-36.30720139,144.1390076
+149,small_airport,Sale Airport,-38.11669922,147.0749969
+150,small_airport,Tidal River Airport,-39.03419876,146.3269958
+151,small_airport,Woodvale Airport,-36.63330078,144.1829987
+152,small_airport,Port Fairy,-38.36196518,142.2642212
+153,small_airport,Fiskville Airport,-37.67811432,144.2207909
+154,small_airport,Trawalla Airport,-37.43874736,143.4589577
+155,small_airport,Pomonal Airstrip,-37.230559,142.677165
+156,small_airport,Beaufort,-37.495,143.43
+157,small_airport,Lake Omeo Dry Lake Ultralightport,-36.96175738,147.6727295
+158,small_airport,Snowy Range Airfield,-37.34857341,146.7660463
+159,small_airport,Delatite Airstrip,-37.145053,146.159431
+160,seaplane_base,Palm Beach Seaplane Base,-33.5871,151.3234
