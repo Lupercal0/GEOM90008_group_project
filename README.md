@@ -1,4 +1,4 @@
-# Group Project for group 1
+# Group Project for group 1 GEOM90008
 
 Here is the place our group share, store and backup our code.
 
